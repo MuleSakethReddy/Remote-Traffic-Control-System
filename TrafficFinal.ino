@@ -2,7 +2,7 @@
 #include <ESP8266HTTPClient.h>
 #include <ESP8266WebServer.h>
 #include <string>  // for string
-#define HOST "sathvik2017.000webhostapp.com"
+#define HOST "saketh712.000webhostapp.com"
 
 const char* ssid = "Tech_D0006519";
 const char* password = "KPYFXZDV";
