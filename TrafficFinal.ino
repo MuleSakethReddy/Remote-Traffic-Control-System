@@ -55,7 +55,7 @@ void loop()
 {
   // Check if a client has connected
   WiFiClient client;
-  http.begin(client, "http://sathvik2017.000webhostapp.com/dbwrite.php");
+  http.begin(client, "http://saketh712.000webhostapp.com/dbwrite.php");
   
  
   // Wait until the client sends some data
